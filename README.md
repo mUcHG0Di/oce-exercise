@@ -16,7 +16,7 @@ Ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/mUcHG0Di/oce-exercise.git
     cd code-interview
     ```
 
@@ -68,7 +68,7 @@ Ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/mUcHG0Di/oce-exercise.git
     cd code-interview
     ```
 
