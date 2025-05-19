@@ -1,11 +1,11 @@
-# Project Title (Exercise)
+# Oceans Code Experts Exercise
 
 This is an exercise project.
 
 ## Prerequisites
 
 Ensure you have the following installed:
-*   PHP (version as per `composer.json`, typically 8.0+)
+*   PHP (version as per `composer.json`, 8.0+)
 *   Composer
 *   Docker and Docker Compose (Optional, if you prefer to run via Docker)
 *   Node.js and npm/yarn (For frontend assets, if applicable)
